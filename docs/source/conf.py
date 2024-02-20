@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TSxPlus'
+copyright = '2020, Qizx'
+author = 'Qizx'
 
 release = '0.1'
 version = '0.1.0'
